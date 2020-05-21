@@ -1,9 +1,9 @@
 <scheme name="Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-13T17:04:16</property>
+    <property name="created">2020-05-21T16:50:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-05-13T17:05:21</property>
+    <property name="modified">2020-05-21T16:53:58</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -142,7 +142,7 @@
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff6a44" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
